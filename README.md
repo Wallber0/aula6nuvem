@@ -1,6 +1,7 @@
 # aula6nuvem
 nessa aula criamos containers utilizando o docker
 
+<img width="1313" height="625" alt="Captura de tela 2025-09-08 205724" src="https://github.com/user-attachments/assets/9458912f-a773-4018-9068-2be1766f5dbc" />
 
 <img width="1022" height="285" alt="Captura de tela 2025-09-08 203949" src="https://github.com/user-attachments/assets/699dfd0f-038d-4941-a907-3abffd5fff3c" />
 
